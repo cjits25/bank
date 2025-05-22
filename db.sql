@@ -45,7 +45,7 @@ CREATE TABLE `customers` (
 --
 
 INSERT INTO `customers` (`id`, `name`, `email`, `password`, `account_number`, `balance`, `status`, `created_at`) VALUES
-(1, 'suresh', 'suresh@gmail.com', '$2y$10$TrwilqAwO3SIDDw1jnySde0Y7yoY7UuDFGNsNqXoqrPfZXdMowIjq', 'BNK69696357', '19100.00', 'active', '2025-05-06 16:09:14'),
+(1, 'kamal', 'kamal@gmail.com', '$2y$10$TrwilqAwO3SIDDw1jnySde0Y7yoY7UuDFGNsNqXoqrPfZXdMowIjq', 'BNK69696357', '19100.00', 'active', '2025-05-06 16:09:14'),
 (2, 'soni', 'soni@gmail.com', '$2y$10$FtEbnID7csAYZ4c67DwvzOzmAEMgtgqgab.ePWMtFGnIREoj./I3a', 'BNK18067502', '49900.00', 'active', '2025-05-06 17:02:50');
 
 -- --------------------------------------------------------
